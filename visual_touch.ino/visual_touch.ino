@@ -9,7 +9,7 @@ int IN2= 8;
 int Clock = A5;
 int Data = A4;
 int distance;
-
+int test;
 
 void setup() {
   analogWrite(6,20);
